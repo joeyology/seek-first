@@ -6,7 +6,7 @@ sections:
   title: We are a selfish company.
   section_id: hero
   component: HeroBlock
-  content: "> We only make apps we want to use. \U0001F49A"
+  content: "We only make apps we want to use. \U0001F49A"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
