@@ -3,11 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Building Progressive Web Apps We Seek
+  title: We are a selfish company.
   section_id: hero
   component: HeroBlock
-  content: "> But seek first the kingdom of God and his righteousness, and all these
-    things will be added to you. Matthew 6:33 ESV"
+  content: "> We only make apps we want to use. \U0001F49A"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
