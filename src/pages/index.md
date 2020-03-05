@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "We make apps we want to use. \U0001F49A"
+  title: We make apps we want to use.
   section_id: hero
   component: HeroBlock
   content: ''
