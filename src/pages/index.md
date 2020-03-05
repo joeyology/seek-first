@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Building Progressive Web Apps We Want To Use
+  title: Building Progressive Web Apps
   section_id: hero
   component: HeroBlock
-  content: But seek first the kingdom of God and his righteousness, and all these
-    things will be added to you. Matthew 6:33 ESV
+  content: "> But seek first the kingdom of God and his righteousness, and all these
+    things will be added to you. Matthew 6:33 ESV"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
