@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: We are a selfish company.
+  title: "We make apps we want to use. \U0001F49A"
   section_id: hero
   component: HeroBlock
-  content: "We only make apps we want to use. \U0001F49A"
+  content: ''
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
