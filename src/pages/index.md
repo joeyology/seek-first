@@ -14,7 +14,7 @@ sections:
   component: PortfolioBlock
   subtitle: "Our Hard Work \U0001F4AA & Heart Work \U0001F9E1"
   layout_style: mosaic
-  num_projects_displayed: 1
+  num_projects_displayed: 2
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: postsblock
