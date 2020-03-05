@@ -9,10 +9,10 @@ sections:
   content: ''
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Recent Products
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   layout_style: mosaic
   num_projects_displayed: 2
   view_all_text: View All
