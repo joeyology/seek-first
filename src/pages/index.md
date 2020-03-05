@@ -13,7 +13,7 @@ sections:
   section_id: latest-projects
   component: PortfolioBlock
   subtitle: Latest Products
-  layout_style: mosaic
+  layout_style: tiles
   num_projects_displayed: 2
   view_all_text: View All
   view_all_url: portfolio/index.html
