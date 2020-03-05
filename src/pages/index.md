@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Building Progressive Web Apps
+  title: Building Progressive Web Apps We Seek
   section_id: hero
   component: HeroBlock
   content: "> But seek first the kingdom of God and his righteousness, and all these
