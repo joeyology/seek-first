@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- "src/pages/projects/daily-devotion-\U0001F4D6.md"
 - src/pages/style-guide.md
