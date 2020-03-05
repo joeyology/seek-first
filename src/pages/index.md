@@ -9,7 +9,7 @@ sections:
   content: ''
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Products
+  title: "Our Hard Work \U0001F4AA & Heart Work \U0001F9E1"
   section_id: latest-projects
   component: PortfolioBlock
   subtitle: ''
