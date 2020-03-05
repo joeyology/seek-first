@@ -34,3 +34,4 @@ fields:
     required: true
 pages:
 - "src/pages/projects/daily-devotion-\U0001F4D6-1.md"
+- src/pages/projects/journey.md
