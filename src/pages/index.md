@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: Building Progressive Web Apps We Want To Use
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: But seek first the kingdom of God and his righteousness, and all these
+    things will be added to you. Matthew 6:33 ESV
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
