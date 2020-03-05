@@ -9,10 +9,10 @@ sections:
   content: ''
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Products
+  title: Our Hard Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: "Our Hard Work \U0001F4AA & Heart Work \U0001F9E1"
+  subtitle: Latest Products
   layout_style: mosaic
   num_projects_displayed: 2
   view_all_text: View All
