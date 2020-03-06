@@ -43,4 +43,14 @@ Let's add a deeper sense of purpose.
 
 Daily Devotion is a tool that aims to help Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
 
+![](/images/dailydevotion_ios.png)
+
 ## How does it work?
+
+Daily Devotion is a (PWA) progressive web app. Wait, what is that? It is just basically a website but with super powers. How is that? When you open it on your mobile browser, it will look and feel like as if it is an app! Amazing, isn't it?
+
+So that's my lame take on trying to explain a progressive web app.
+
+But here's an in depth article from Ionic to learn more about PWA.
+
+[https://ionicframework.com/docs/intro/what-are-progressive-web-apps](https://ionicframework.com/docs/intro/what-are-progressive-web-apps "https://ionicframework.com/docs/intro/what-are-progressive-web-apps")
