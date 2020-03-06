@@ -11,6 +11,12 @@ content_img_path: "/images/dailydevotion_web.png"
 >
 > **Joshua 1:8 NLT**
 
-## Purpose
+## Why make another Bible app?
+
+### Purpose
 
 Daily Devotion is a tool that aims Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
+
+### Problem
+
+We don't know when will God speak to us, give us divine revelation or instruction that's why
