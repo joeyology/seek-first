@@ -13,3 +13,7 @@ subtitle: ''
 > _Whether the cloud stayed above the Tabernacle for two days, a month, or a year, the people of Israel stayed in camp and did not move on. But as soon as it lifted, they broke camp and moved on. So they camped or traveled at the LORD’s command, and they did whatever the LORD told them through Moses._
 >
 > **Numbers 9:22-23**
+
+## The Journey Begins
+
+I cannot count anymore how many times I have a "Journey Begins" moment in my life.
