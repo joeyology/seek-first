@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Changing the world one web app at a time.
+  title: Changing the world one progressive web app at a time.
   section_id: hero
   component: HeroBlock
   content: "We make progressive web apps we personally want to use then share it to
