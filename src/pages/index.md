@@ -12,7 +12,7 @@ sections:
   title: Our Hard Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: List of our latest Products
+  subtitle: Latest Products
   layout_style: tiles
   num_projects_displayed: 1
   view_all_text: ''
