@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "We make apps we want to use. \U0001F49A"
+  title: Changing the world one web app at a time.
   section_id: hero
   component: HeroBlock
-  content: ''
+  content: "We make apps we personally want to use share it to the world. \U0001F30E"
 - type: portfolioblock
   template: portfolioblock
   title: Our Hard Work
