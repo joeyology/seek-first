@@ -13,7 +13,7 @@ content_img_path: "/images/dailydevotion_web.png"
 
 ## Why make another Bible app?
 
-In our time today, most people don't have the desire or interest in studying and reading the Word of God. I say this because out of my \~15 co-workers that I've invited to join my Bible Study, no one even bother. Zero. 
+In our time today, most people don't have the desire or interest in studying and reading the Word of God. I say this because out of my \~15 co-workers that I've invited to join my Bible Study, no one even bother. Zero.
 
 So why still make another Bible App?
 
@@ -42,3 +42,5 @@ Let's add a deeper sense of purpose.
 ### Purpose
 
 Daily Devotion is a tool that aims to help Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
+
+## How does it work?
