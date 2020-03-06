@@ -6,7 +6,8 @@ sections:
   title: Changing the world one web app at a time.
   section_id: hero
   component: HeroBlock
-  content: "We make apps we personally want to use and share it to the world. \U0001F30E"
+  content: "We make progressive web apps we personally want to use then share it to
+    the world. \U0001F30E"
 - type: portfolioblock
   template: portfolioblock
   title: Our Hard Work
