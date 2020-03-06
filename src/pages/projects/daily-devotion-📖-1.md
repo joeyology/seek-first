@@ -55,4 +55,6 @@ But here's an in depth article from [Ionic](https://ionicframework.com/) to lear
 
 [https://ionicframework.com/docs/intro/what-are-progressive-web-apps](https://ionicframework.com/docs/intro/what-are-progressive-web-apps "https://ionicframework.com/docs/intro/what-are-progressive-web-apps")
 
-### Features
+### Try it now!
+
+Click here 👉 [https://dailydevotion.app/](https://dailydevotion.app/ "https://dailydevotion.app/")
