@@ -13,8 +13,8 @@ sections:
   title: Our Hard Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: Latest Products
-  layout_style: tiles
+  subtitle: Latest Products & Services
+  layout_style: mosaic
   num_projects_displayed: 1
   view_all_text: ''
   view_all_url: portfolio/index.html
