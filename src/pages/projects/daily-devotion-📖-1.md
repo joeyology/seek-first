@@ -35,10 +35,10 @@ Hence, how can we be able to be ready and prepared when that moment comes?
 
 Why not make a way to be able to write down our thoughts as we do our quiet time or daily devotions?
 
-Does it make sense.
+Does it make sense?
 
 Let's add a deeper sense of purpose.
 
 ### Purpose
 
-Daily Devotion is a tool that aims Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
+Daily Devotion is a tool that aims to help Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
