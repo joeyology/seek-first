@@ -14,8 +14,8 @@ sections:
   component: PortfolioBlock
   subtitle: Latest Products
   layout_style: tiles
-  num_projects_displayed: 2
-  view_all_text: View All
+  num_projects_displayed: 1
+  view_all_text: ''
   view_all_url: portfolio/index.html
 - type: postsblock
   template: postsblock
