@@ -37,5 +37,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/2019-03-24-workplace.md
 - src/pages/posts/2019-03-27-why-fonts-matter.md
