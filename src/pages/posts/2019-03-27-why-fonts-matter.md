@@ -30,6 +30,10 @@ The story is telling me not to move unless God moves as well. I thought, yeah, t
 
 And it didn't move. ⛈ #NothingHappen
 
-### A New Beginning
+### Another New Beginning
 
-Fast forward
+Fast forward, 5 years since, here I am again. 
+
+Trying to make another new beginning.
+
+But this time, it's different.
