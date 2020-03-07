@@ -3,9 +3,9 @@ title: The Fiery Cloud
 date: 2020-03-06T09:00:00Z
 thumb_img_path: "/images/9.jpg"
 content_img_path: "/images/9.jpg"
-excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat
-  lorem turpis at.
+excerpt: Yes. It always begin this way. However, several times now since 10 years
+  ago.  I always start something but never did my dream to have a software company
+  materialized. Sad.
 template: post
 subtitle: ''
 
@@ -16,4 +16,8 @@ subtitle: ''
 
 ## The Journey Begins
 
-I cannot count anymore how many times I have a "Journey Begins" moment in my life.
+Yes. It always begin this way. However, several times now since 10 years ago.
+
+I always start something but never did my dream to have a software company materialized. Sad.
+
+### A New Beginning
