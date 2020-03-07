@@ -37,3 +37,19 @@ Fast forward, 5 years since, here I am again.
 Trying to make another new beginning.
 
 But this time, it's different.
+
+### Another Word from God
+
+I received another Word from God that speaks right into my heart.
+
+It's from [Matthew 6:33](https://dailydevotion.app/tabs/tab1/ENGESVN2ET/Matt/ENGESVN2ET/Matt/6).
+
+![](/images/matt633.png)
+
+It tells me not to seek what could be the next big idea that will hit. 
+
+But instead, God tells me, to seek Him first and His righteousness. Then this desire deep down in my heart, to have my own software related company, will be added to my life. And many other desires.
+
+### Ending
+
+And that's how I got the name of [my future company](https://seekfirst.netlify.com/). 
