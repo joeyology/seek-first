@@ -20,4 +20,16 @@ Yes. It always begin this way. However, several times now since 10 years ago.
 
 I always start something but never did my dream to have a software company materialized. Sad.
 
+### In the Beginning
+
+Way back years ago, I had kept a Word of God during my daily devotion. 
+
+It was from [Numbers 9:15-23](https://dailydevotion.app/tabs/tab1/ENGESVO2ET/Num/ENGESVO2ET/Num/9).
+
+The story is telling me not to move unless God moves as well. I thought, yeah, that was a great idea and I decided to call my first solo attempt side project as The Fiery Cloud. Which is the title of the story in New Living Translation.
+
+And it didn't move. ⛈ #NothingHappen
+
 ### A New Beginning
+
+Fast forward
