@@ -5,7 +5,9 @@ subtitle: The first version of Daily Devotion.
 date: 2020-03-24T13:00:00Z
 thumb_img_path: "/images/2020-03-24_2101.png"
 content_img_path: "/images/2020-03-24_2101.png"
-excerpt: ''
+excerpt: I was actually been following Ionic Framework since it's version 1. I even
+  subscribed to Ionic Creator because I'm really not a hardcore programmer. Then it
+  went on to v2, v3, v4 and I still can't make it work.
 
 ---
 > Better is the end of a thing than its beginning, and the patient in spirit is better than the proud in spirit.
