@@ -9,4 +9,4 @@ subtitle: How can we help you?
 img_path: ''
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [josemari.taleno@gmail.com](mailto:example@example.com).
+Thank you for coming here! We are looking forward to hear from you! Please fill the contact form below.
