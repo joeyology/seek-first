@@ -30,4 +30,4 @@ I really love using my app. I actually have my daily devotions saved there. Unti
 
 [Anvil](https://anvil.works/) is really a wonderful framework for building web apps, specially if Python is your favorite language. So it's not Anvil's fault, it's me and my buggy attitude. I want to build something beautiful with less effort on me because I'm not a designer.
 
-I give [Ionic Framework](https://ionicframework.com/) another shot and this time it's already in v5. I rebuild my [Daily Devotion app](https://dailydevotion.app/tabs/tab1) and true enough, it's pretty. Specially, when used on an Apple device. 🍎
+I give [Ionic Framework](https://ionicframework.com/) another shot and this time it's already in v5. I rebuild my [Daily Devotion app](https://dailydevotion.app) and true enough, it's pretty. Specially, when used on an Apple device. 🍎
