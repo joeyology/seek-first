@@ -8,7 +8,7 @@ excerpt: Yes. It's been 10 years. And I cannot count the times I tried to start 
   if I look at it on a different perspective, this is not actually bad after all.
   Because God's not done with me yet.
 template: post
-subtitle: Daily Devotion Version 0.0.1
+subtitle: Daily Devotion Version 0.0
 
 ---
 > _Whether the cloud stayed above the Tabernacle for two days, a month, or a year, the people of Israel stayed in camp and did not move on. But as soon as it lifted, they broke camp and moved on. So they camped or traveled at the LORD’s command, and they did whatever the LORD told them through Moses._
