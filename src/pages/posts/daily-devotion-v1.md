@@ -1,8 +1,8 @@
 ---
 template: post
-title: Daily Devotion v1
-subtitle: The first version of Daily Devotion.
-date: 2020-03-24T13:00:00Z
+title: Daily Devotion 1.0
+subtitle: Daily Devotion Version 1.0
+date: 2020-03-24T13:00:00.000+00:00
 thumb_img_path: "/images/2020-03-24_2101.png"
 content_img_path: "/images/2020-03-24_2101.png"
 excerpt: I was actually been following Ionic Framework since it's version 1. I even
