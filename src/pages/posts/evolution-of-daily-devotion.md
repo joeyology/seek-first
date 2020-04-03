@@ -40,4 +40,8 @@ I still have the same job by the grace of God. And I've learned loyalty during m
 
 I've been actually following Ionic Framework's journey since the beginning but due to my limited web development skills, I wasn't able to make even one decent working app. However, through Sani's course, I was able to follow and build the newest version of Daily Devotion, now a progressive web app built in Ionic 5.
 
-Is this finished? Not yet.
+![](/images/dailydevotion_web-1.png)
+
+Is this finished? Not yet. But I'm using it for my Daily Devotion.
+
+God willing, I hope to finish it. Will keep you posted!
