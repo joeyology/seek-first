@@ -5,7 +5,10 @@ subtitle: Daily Devotion has 3 versions already
 date: 2020-04-03T01:00:00Z
 thumb_img_path: "/images/daily_devotion_3.jpg"
 content_img_path: "/images/daily_devotion_3.jpg"
-excerpt: ''
+excerpt: Based from my experience, this is so true. It's very easy to start something.
+  And it's very hard to finish it. But the Bible says, finishing is better than starting.
+  So let's not be deceived if we think "Wow! I've already started this thing and that
+  business!". The main question is, "Is it finished?".
 
 ---
 > Finishing is better than starting. Patience is better than pride.
