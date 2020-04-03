@@ -9,6 +9,6 @@ menus:
 template: page
 
 ---
-We are a married couple
+We are children of God!
 
 _Thank You for reading!_
