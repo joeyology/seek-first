@@ -11,4 +11,8 @@ template: page
 ---
 We are children of God!
 
+> God decided in advance to adopt us into his own family by bringing us to himself through Jesus Christ. This is what he wanted to do, and it gave him great pleasure.
+>
+> Ephesians 1:5 NLT
+
 _Thank You for reading!_
