@@ -15,7 +15,7 @@ sections:
   component: PortfolioBlock
   subtitle: Latest Products & Services
   layout_style: mosaic
-  num_projects_displayed: 1
+  num_projects_displayed: 4
   view_all_text: ''
   view_all_url: portfolio/index.html
 - type: postsblock
