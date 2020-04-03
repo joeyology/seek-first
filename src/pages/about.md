@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
+subtitle: Who we are and our identity
 img_path: "/images/20190217_062655.jpg"
 menus:
   main:
@@ -9,5 +9,6 @@ menus:
 template: page
 
 ---
+We are a married couple
 
 _Thank You for reading!_
