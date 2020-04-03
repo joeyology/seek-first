@@ -1,0 +1,36 @@
+---
+template: project
+title: Wisdom
+subtitle: Get wisdom. Get understanding.
+date: 2020-04-03T01:50:00Z
+thumb_img_path: "/images/wisdom_screenshot.png"
+content_img_path: "/images/wisdom_screenshot-1.png"
+
+---
+> So teach us to number our days that we may get a heart of wisdom.
+>
+> Psalm 90:12 ESV
+
+## What is this about?
+
+Wisdom is an app that aims to teach us the value of life. That our life here on earth is short. So what we do with our life really matters.
+
+The app has a simple calculator functionality.
+
+It will ask for the user's current age. 
+
+Multiply the current age by \~365 days to get how many days the user have lived.
+
+Given that we might only live for 70 years or \~25,550 days.
+
+25,550 days minus the numbers of days the user lived results to the number of days left to enjoy life.
+
+## Why build Wisdom?
+
+I was just browsing through my email and saw this challenge from Adalo to build web apps using their platform and could possibly win a lifetime access to their wonderful no-code platform.
+
+I shared Adalo to my wife and she got pretty excited because it's a no-code platform. I encouraged her to learn and watch videos from Adalo. 
+
+That same evening, we started jotting down rough ideas and out of 40 items, one of those is Wisdom.
+
+Try it here -> [https://seekfirst.adalo.com/wisdom](https://seekfirst.adalo.com/wisdom "https://seekfirst.adalo.com/wisdom")
