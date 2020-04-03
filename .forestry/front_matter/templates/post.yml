@@ -38,5 +38,6 @@ fields:
     required: true
 pages:
 - src/pages/posts/2019-03-27-why-fonts-matter.md
+- src/pages/posts/adalo-the-nocodeconnectsus-challenge.md
 - src/pages/posts/daily-devotion-v1.md
 - src/pages/posts/evolution-of-daily-devotion.md
