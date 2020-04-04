@@ -3,8 +3,8 @@ template: project
 title: Lockdown Jobs
 subtitle: "#NoCodeConnectsUs Challenge - Entry #2: Job sharing in times of COVID-19"
 date: 2020-04-03T15:00:00Z
-thumb_img_path: "/images/lockdown_jobs_screenshot.png"
-content_img_path: "/images/lockdown_jobs_screenshot.png"
+thumb_img_path: "/images/lockdown_jobs_screenshot-1.png"
+content_img_path: "/images/lockdown_jobs_screenshot-1.png"
 
 ---
 > And don’t forget to do good and to share with those in need. These are the sacrifices that please God.
