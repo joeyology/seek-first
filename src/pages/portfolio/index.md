@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 subtitle: Showcasing our products and services.
-layout_style: mosaic
+layout_style: tiles
 menus:
   main:
     title: Portfolio
