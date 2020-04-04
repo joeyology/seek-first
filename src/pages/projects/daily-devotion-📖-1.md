@@ -41,20 +41,18 @@ Let's add a deeper sense of purpose.
 
 ### Purpose
 
-Daily Devotion is a tool that aims to help Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
+[**Daily Devotion**](https://dailydevotion.app/) is a tool that aims to help Christians during their quiet time or daily devotion to write down their thoughts immediately as they read the Bible and meditate on the Word of God.
 
 ![](/images/dailydevotion_ios.png)
 
 ## How does it work?
 
-[Daily Devotion](https://dailydevotion.app/) is a (PWA) progressive web app. Wait, what is that? It is just basically a website but with super powers. How is that? When you open it on your mobile browser, it will look and feel like as if it is an app! Amazing, isn't it?
+[**Daily Devotion**](https://dailydevotion.app/) is a (PWA) progressive web app. Wait, what is that? It is just basically a website but with super powers. How is that? When you open it on your mobile browser, it will look and feel like as if it is an app! Amazing, isn't it?
 
 So that's my lame take on trying to explain a progressive web app.
 
-But here's an in depth article from [Ionic](https://ionicframework.com/) to learn more about PWA.
-
-[https://ionicframework.com/docs/intro/what-are-progressive-web-apps](https://ionicframework.com/docs/intro/what-are-progressive-web-apps "https://ionicframework.com/docs/intro/what-are-progressive-web-apps")
+But here's an in depth article from [Ionic](https://ionicframework.com/) to learn more about [PWA](https://ionicframework.com/docs/intro/what-are-progressive-web-apps).
 
 ### Try it now!
 
-Click here 👉 [https://dailydevotion.app/](https://dailydevotion.app/ "https://dailydevotion.app/")
+**Click here 👉** [**https://dailydevotion.app/**](https://dailydevotion.app/ "https://dailydevotion.app/")
