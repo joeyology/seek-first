@@ -14,22 +14,22 @@ Image Source: [nucode.com](https://www.nucode.co/challenge/the-nocodeconnectsus-
 
 ## Adalo gave me super powers?!
 
-Yes. That's somewhat the gist of Adalo's email few days ago. I got hooked by the subject so I kept on reading. And there, I've discovered that they have a new challenge called "The #NoCodeConnectsUs Challenge".
+Yes. That's somewhat the gist of [**Adalo**](https://www.adalo.com/)'s email few days ago. I got hooked by the subject so I kept on reading. And there, I've discovered that they have a new challenge called "The [**#NoCodeConnectsUs**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300) Challenge".
 
 ### What's the challenge?
 
-Basically, we need to make apps using the amazing no-code platform of Adalo and submit the project to a no-code community called Nucode.
+Basically, we need to make apps using the amazing no-code platform of [**Adalo**](https://www.adalo.com/our-story) and submit the project to a no-code community called [**Nucode**](https://www.nucode.co/).
 
 However, it is again a challenge.
 
 The challenge is to make something that can help people connect due to the social distancing effect of the COVID-19 virus.
 
-Read further details here -> [#NoCodeConnectsUs](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300)
+Read further details here -> [**#NoCodeConnectsUs**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300)
 
 ### What's in it for us?
 
-We could have a chance to win a lifetime access to Adalo Pro!
+We could have a chance to win a lifetime access to [**Adalo Pro**](https://www.adalo.com/pricing)!
 
 Sounds good eh?!
 
-What are you waiting for? [**Join now!**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300)
+**What are you waiting for?** [**Join now!**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300)
