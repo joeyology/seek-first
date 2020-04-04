@@ -3,8 +3,8 @@ template: project
 title: Wisdom
 subtitle: Get wisdom. Get understanding.
 date: 2020-04-03T01:50:00Z
-thumb_img_path: "/images/wisdom_screenshot.png"
-content_img_path: "/images/wisdom_screenshot-1.png"
+thumb_img_path: "/images/wisdom_screenshot-2.png"
+content_img_path: "/images/wisdom_screenshot-2.png"
 
 ---
 > So teach us to number our days that we may get a heart of wisdom.
