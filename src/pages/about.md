@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Who we are and our identity
-img_path: "/images/about_us_ResizerImage.jpg"
+img_path: "/images/about_us_ResizerImage-1.jpg"
 menus:
   main:
     title: About
