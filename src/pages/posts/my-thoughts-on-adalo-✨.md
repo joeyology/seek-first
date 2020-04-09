@@ -41,4 +41,10 @@ You have a wonderful product, Adalo Team! May God bless you and give you more wi
 
 I think I'm just tired of hustling with their [**#NoCodeConnectsUs Challenge**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300). 
 
+![](/images/2020-04-09_1726.png)
+
+This comes from my 4th Adalo Project called [**Third Day 👌**](https://seekfirst.adalo.com/third-day).
+
+An app to help me achieve my goals, Jesus way!
+
 Hoping to win the grand prize!
