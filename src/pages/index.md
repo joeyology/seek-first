@@ -16,7 +16,7 @@ sections:
   subtitle: Latest Products & Services
   layout_style: tiles
   num_projects_displayed: 4
-  view_all_text: View All Projects
+  view_all_text: View All Products
   view_all_url: portfolio/index.html
 - type: postsblock
   template: postsblock
