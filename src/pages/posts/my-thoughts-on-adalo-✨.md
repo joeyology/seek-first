@@ -21,7 +21,9 @@ It goes to show that Adalo has something in it that can help a non hard core pro
 
 Based from my approximately 2 weeks of continuous building with Adalo, I say that it's their amazing editor.
 
-![](/images/2020-04-09_1612.png)It's not perfect yet but it can deliver nonetheless.
+![](/images/2020-04-09_1612.png)
+
+It's not perfect yet but it can deliver nonetheless.
 
 ### However...
 
