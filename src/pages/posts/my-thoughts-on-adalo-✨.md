@@ -39,4 +39,6 @@ Personally, I'm 100% in support with [**Adalo**](https://www.adalo.com/)!
 
 You have a wonderful product, Adalo Team! May God bless you and give you more wisdom and success! 🙏
 
-I think I'm just tired of hustling with their [**#NoCodeConnectsUs Challenge**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300). Hoping to win the grand prize!
+I think I'm just tired of hustling with their [**#NoCodeConnectsUs Challenge**](https://www.nucode.co/challenge/the-nocodeconnectsus-challenge-1585655164419x599472269787660300). 
+
+Hoping to win the grand prize!
