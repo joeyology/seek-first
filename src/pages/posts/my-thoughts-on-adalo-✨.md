@@ -15,7 +15,7 @@ Images are screenshots from [**Adalo's website**](https://www.adalo.com/).
 
 I just finished my 5th Adalo project in which I've only started using just a week ago. And I think it's pretty impressive.
 
-It goes to show that Adalo has something in it that can help a non hard core programmer like to ship faster.
+It goes to show that Adalo has something in it that can help a non hard core programmer like me to ship faster.
 
 ### What makes Adalo special?
 
