@@ -1,13 +1,13 @@
 {
-  "title": "SeekFirst",
+  "title": "SeekFirst, Ltd.",
   "color_scheme": "light",
   "accent_color": "green",
   "header": {
-    "title": "SeekFirst",
+    "title": "SeekFirst, Ltd.",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; SeekFirst. All rights reserved.",
+    "content": "&copy; SeekFirst, Ltd. All rights reserved.",
     "links": [
       {
         "text": "Made with Stackbit",
