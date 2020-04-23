@@ -5,7 +5,8 @@ subtitle: The story of how I ended up having bibleapp.pro
 date: 2020-04-23T10:00:00Z
 thumb_img_path: "/images/bibleapp_journey.png"
 content_img_path: "/images/bibleapp_journey.png"
-excerpt: ''
+excerpt: 'As you know from my previous blogs and "product" posts in this site, I am
+  obviously hustling in the #NoCodeConnectsUs Challenge by Adalo.'
 
 ---
 > "All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right."
