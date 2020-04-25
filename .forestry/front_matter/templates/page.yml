@@ -26,3 +26,4 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/privacy-policy.md
+- src/pages/terms-of-service.md
