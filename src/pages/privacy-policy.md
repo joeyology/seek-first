@@ -5,8 +5,6 @@ subtitle: ''
 img_path: ''
 
 ---
-# PRIVACY POLICY
-
 Effective date: 04/25/2020
 
 **1. Introduction**
