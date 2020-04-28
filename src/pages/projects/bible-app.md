@@ -36,3 +36,11 @@ The Bible App has 2 major features:
 Currently, we can read the English Standard Version (ESV) only. God willing we can be able to make it more dynamic and extend it to other Bible translations.
 
 However, the best part is, we can read the Bible for FREE!
+
+### Write
+
+![](/images/bible_demo_2.gif)
+
+We believe that there are lovers of the Word out there that also loves to write. They are even writing directly in their Bibles for we never know when a great revelation will come.
+
+With the Bible App, it allows people to not just to write their thoughts on the go but also to upload a photo that best describes the idea.
