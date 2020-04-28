@@ -15,7 +15,7 @@ sections:
   component: PortfolioBlock
   subtitle: Latest Products & Services
   layout_style: tiles
-  num_projects_displayed: 4
+  num_projects_displayed: 7
   view_all_text: View All Products
   view_all_url: portfolio/index.html
 - type: postsblock
