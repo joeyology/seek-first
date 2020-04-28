@@ -24,3 +24,15 @@ We can never be here today without God and His Word.
 We owe everything to Jesus!
 
 This is our five loaves and two fishes and let God feed the five thousand. ♥
+
+## What can you do with it?
+
+The Bible App has 2 major features:
+
+### Read
+
+![](/images/bible_demo_1.gif)
+
+Currently, we can read the English Standard Version (ESV) only. God willing we can be able to make it more dynamic and extend it to other Bible translations.
+
+However, the best part is, we can read the Bible for FREE!
