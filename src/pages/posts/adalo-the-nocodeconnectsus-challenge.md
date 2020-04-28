@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Adalo & The #NoCodeConnectsUs Challenge'
+title: "Adalo & The #NoCodeConnectsUs Challenge \U0001F4AA"
 subtitle: A no-code challenge hosted in Nucode sponsored by Adalo
 date: 2020-04-03T08:00:00Z
 thumb_img_path: "/images/nucode_adalo_challenge.png"
