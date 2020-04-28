@@ -5,16 +5,15 @@ subtitle: The unexpected launch of Bible app on Product Hunt.
 date: 2020-04-28T04:00:00Z
 thumb_img_path: "/images/2020-04-28_1156.png"
 content_img_path: "/images/2020-04-28_1156.png"
-excerpt: ''
+excerpt: I was just researching on how to launch in Product Hunt yesterday and then
+  suddenly, poof! unexpectedly we launched our first ever product called Bible app!
 
 ---
 ## What happened yesterday?!
 
 So yes.
 
-I was just researching on how to [**launch in Product Hunt**](https://www.producthunt.com/posts/bible) yesterday and then suddenly.
-
-Poof! I unexpectedly launched our first ever product called [**Bible app**](www.bibleapp.pro)!
+I was just researching on how to [**launch in Product Hunt**](https://www.producthunt.com/posts/bible) yesterday and then suddenly, poof! unexpectedly we launched our first ever product called [**Bible app**](www.bibleapp.pro)!
 
 ### What's next?
 
