@@ -41,4 +41,4 @@ And so I build my last entry and submitted it to [**Nucode**](https://www.nucode
 
 Only God knows what will happen from there.
 
-There are lots of amazing entries that even though it seems like I have lots of entries, the other apps as just brilliant.
+There are lots of amazing entries that even though it seems like I have lots of entries, the other apps are just brilliant.
