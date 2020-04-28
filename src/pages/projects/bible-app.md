@@ -44,3 +44,13 @@ However, the best part is, we can read the Bible for FREE!
 We believe that there are lovers of the Word out there that also loves to write. They are even writing directly in their Bibles for we never know when a great revelation will come.
 
 With the Bible App, it allows people to not just to write their thoughts on the go but also to upload a photo that best describes the idea.
+
+Plus, we allow people to just keep things in private if they want. But we also give them the opportunity to publish their thoughts in Devotions. And let other people be blessed by their devotionals.
+
+## You want to try?
+
+We are now sharing with you our first ever product.
+
+### Try 👉 [**bibleapp.pro**]() now! ✨
+
+All glory to God!
