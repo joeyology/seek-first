@@ -4,7 +4,8 @@
   "accent_color": "green",
   "header": {
     "title": "SeekFirst, Ltd.",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/seekfirst-logo.png"
   },
   "footer": {
     "content": "&copy; 2020 SeekFirst, Ltd. All rights reserved.",
