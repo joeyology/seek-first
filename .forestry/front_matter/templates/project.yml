@@ -35,7 +35,3 @@ fields:
 pages:
 - src/pages/projects/bible-app.md
 - "src/pages/projects/daily-devotion-\U0001F4D6-1.md"
-- src/pages/projects/lockdown-jobs.md
-- src/pages/projects/product-display.md
-- "src/pages/projects/third-day-\U0001F44C.md"
-- src/pages/projects/wisdom.md
