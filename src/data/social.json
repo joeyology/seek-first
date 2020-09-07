@@ -1,6 +1,12 @@
 {
   "links": [
     {
+      "type": "linkedin",
+      "title": "Privacy Policy",
+      "icon": "fa-user-shield",
+      "url": "https://www.seekfirst.ltd/privacy-policy/"
+    },
+    {
       "title": "Terms of Service",
       "icon": "fa-file-alt",
       "url": "https://www.seekfirst.ltd/terms-of-service/"
@@ -16,12 +22,6 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/goseekfirst/"
-    },
-    {
-      "type": "linkedin",
-      "title": "Privacy Policy",
-      "icon": "fa-user-shield",
-      "url": "https://www.seekfirst.ltd/privacy-policy/"
     }
   ]
 }
