@@ -7,6 +7,9 @@ sections:
   section_id: hero
   component: HeroBlock
   content: ''
+  actions:
+  - label: Buy Me A Coffee ☕
+    url: https://www.buymeacoffee.com/seekfirst
 - type: postsblock
   template: postsblock
   title: Our Heart Work
