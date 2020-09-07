@@ -35,8 +35,14 @@ fields:
     required: true
 - name: actions
   type: field_group_list
+  fields:
+  - name: include_action
+    type: include
+    config: {}
+    template: action
+    label: Action
   config:
     min: 
     max: 
     labelField: 
-  label: Actions
+  label: Action Buttons
