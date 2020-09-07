@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: "Hard Work \U0001F4AA"
+subtitle: A showcase of no-code apps
 layout_style: tiles
 menus:
   main:
