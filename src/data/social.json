@@ -1,15 +1,9 @@
 {
   "links": [
     {
-      "type": "linkedin",
-      "title": "Privacy Policy",
-      "icon": "fa-user-shield",
-      "url": "https://www.seekfirst.ltd/privacy-policy/"
-    },
-    {
-      "title": "Terms of Service",
-      "icon": "fa-file-alt",
-      "url": "https://www.seekfirst.ltd/terms-of-service/"
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/jmtaleno/"
     },
     {
       "type": "twitter",
