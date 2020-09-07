@@ -8,8 +8,8 @@ sections:
   component: HeroBlock
   content: ''
   actions:
-  - label: Buy Me A Coffee ☕
-    url: https://www.buymeacoffee.com/seekfirst
+  - label: "Subscribe to our newsletter \U0001F48C"
+    url: https://seekfirst.substack.com/
 - type: postsblock
   template: postsblock
   title: Our Heart Work
