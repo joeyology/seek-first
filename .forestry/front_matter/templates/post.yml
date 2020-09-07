@@ -52,6 +52,7 @@ fields:
       file: src/data/author.json
       path: 
   label: Author
+  hidden: true
 pages:
 - src/pages/posts/2019-03-27-why-fonts-matter.md
 - src/pages/posts/adalo-the-nocodeconnectsus-challenge.md
