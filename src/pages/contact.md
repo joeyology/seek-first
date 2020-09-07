@@ -5,7 +5,7 @@ menus:
     title: Contact
     weight: 5
 template: contact
-subtitle: How can we help you?
+subtitle: ''
 img_path: ''
 
 ---
