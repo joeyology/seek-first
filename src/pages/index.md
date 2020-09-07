@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "Changing the world, one daily devotion at a time. \U0001F30E"
+  title: "Changing the world, one day at a time. \U0001F30E"
   section_id: hero
   component: HeroBlock
   content: ''
