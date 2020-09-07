@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "Change the world. \U0001F30E"
+  title: "Change the world, one day at a time. \U0001F30E"
   section_id: hero
   component: HeroBlock
-  content: One day at a time.
+  content: ''
   actions:
   - label: "Get weekly updates \U0001F48C"
     url: https://seekfirst.substack.com/
