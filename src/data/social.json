@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Terms of Service",
+      "icon": "fa-file-alt",
+      "url": "https://www.seekfirst.ltd/terms-of-service/"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
