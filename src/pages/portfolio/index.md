@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Showcasing our products and services.
+subtitle: "Result of hard work \U0001F4AA"
 layout_style: tiles
 menus:
   main:
