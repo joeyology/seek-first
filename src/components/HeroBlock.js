@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {markdownify, Link} from '../utils';
+import {markdownify, Link, safePrefix} from '../utils';
 
 export default class HeroBlock extends React.Component {
     render() {
