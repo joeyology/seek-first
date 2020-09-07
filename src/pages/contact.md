@@ -5,8 +5,7 @@ menus:
     title: Contact
     weight: 5
 template: contact
-subtitle: ''
+subtitle: Please fill the contact form below.
 img_path: ''
 
 ---
-Please fill the contact form below.
