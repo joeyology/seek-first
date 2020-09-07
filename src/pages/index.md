@@ -12,7 +12,7 @@ sections:
     url: https://seekfirst.substack.com/
 - type: postsblock
   template: postsblock
-  title: Our Heart Work
+  title: Heart Work
   section_id: latest-posts
   component: PostsBlock
   subtitle: Latest Blog Posts
