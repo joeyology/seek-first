@@ -40,6 +40,18 @@ fields:
   type: tag_list
   default: []
   label: Tag
+- name: author
+  type: select
+  default: name
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: author
+      file: src/data/author.json
+      path: 
+  label: Author
 pages:
 - src/pages/posts/2019-03-27-why-fonts-matter.md
 - src/pages/posts/adalo-the-nocodeconnectsus-challenge.md
