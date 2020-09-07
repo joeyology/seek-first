@@ -33,3 +33,10 @@ fields:
   default: heroblock
   config:
     required: true
+- name: actions
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Actions
