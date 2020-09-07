@@ -18,14 +18,14 @@ export default class Post extends React.Component {
                       <span className="published">
                         ✍ by {_.get(this.props, 'pageContext.site.data.author.name')}
                       </span>
-                      <span>, 📅 </span>
+                      <span>, </span>
                       <time className="published"
-                        dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%B %d, %Y')}</time>
-                      <div>
+                        dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%MMM %d, %Y')}</time>
+                      <span> 
                       <a class="twitter-share-button"
                           href={'https://twitter.com/intent/tweet?text=' + _.get(this.props, 'pageContext.frontmatter.title') + '?hashtags=SeekFirst?via=@goseekfirst'}>
                         Tweet</a>
-                      </div>
+                      </span>
                     </div>
                     {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                     <div className="post-subtitle">
