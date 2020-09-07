@@ -36,6 +36,10 @@ fields:
   default: post
   config:
     required: true
+- name: tag
+  type: tag_list
+  default: []
+  label: Tag
 pages:
 - src/pages/posts/2019-03-27-why-fonts-matter.md
 - src/pages/posts/adalo-the-nocodeconnectsus-challenge.md
