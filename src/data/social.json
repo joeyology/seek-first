@@ -14,9 +14,9 @@
     },
     {
       "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "title": "Privacy Policy",
+      "icon": "fa-user-shield",
+      "url": "https://www.seekfirst.ltd/privacy-policy/"
     }
   ]
 }
