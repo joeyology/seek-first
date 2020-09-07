@@ -15,9 +15,9 @@ export default class Post extends React.Component {
                   <header className="post-header inner-small">
                     <h1 className="post-title line-top">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                     <div className="post-meta">
-                      {_.get(this.props, 'pageContext.frontmatter.author') && 
+                      {_.get(this.props, 'pageContext.site.data.author.name') && 
                       <p className="published">
-                        {_.get(this.props, 'pageContext.frontmatter.author')} />
+                        {_.get(this.props, 'pageContext.site.data.author.name')} />
                       </p>
                       }
                       <time className="published"
