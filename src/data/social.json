@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/jmtaleno/"
-    },
-    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -16,6 +11,11 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/goseekfirst/"
+    },
+    {
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/jmtaleno/"
     }
   ]
 }
