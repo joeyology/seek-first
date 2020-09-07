@@ -3,13 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "Changing the world, one day at a time. \U0001F30E"
+  title: "Change the world, one day at a time. \U0001F30E"
   section_id: hero
   component: HeroBlock
   content: ''
   actions:
-  - label: "Subscribe to my Newsletter \U0001F48C"
-    url: https://seekfirst.substack.com/
   - label: Buy Me A Coffee ☕
     url: https://www.buymeacoffee.com/seekfirst
 - type: postsblock
@@ -20,8 +18,8 @@ sections:
   subtitle: Latest Blog Posts
   num_posts_displayed: 7
   actions:
-  - label: View Blog
-    url: blog/index.html
+  - label: "Receive weekly updates \U0001F48C"
+    url: https://seekfirst.substack.com/
 menus:
   main:
     title: Home
