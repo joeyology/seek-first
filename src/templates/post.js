@@ -20,12 +20,12 @@ export default class Post extends React.Component {
                       </span>
                       <span>, </span>
                       <time className="published"
-                        dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%MMM %d, %Y')}</time>
-                      <span> 
+                        dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%b %d, %Y')}</time>
+                      <span> </span>
                       <a class="twitter-share-button"
                           href={'https://twitter.com/intent/tweet?text=' + _.get(this.props, 'pageContext.frontmatter.title') + '?hashtags=SeekFirst?via=@goseekfirst'}>
-                        Tweet</a>
-                      </span>
+                        Tweet
+                      </a>
                     </div>
                     {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                     <div className="post-subtitle">
