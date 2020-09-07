@@ -48,7 +48,7 @@ fields:
     options: []
     source:
       type: documents
-      section: author
+      section: ''
       file: src/data/author.json
       path: 
   label: Author
