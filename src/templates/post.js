@@ -17,7 +17,7 @@ export default class Post extends React.Component {
                     <div className="post-meta">
                       {_.get(this.props, 'pageContext.site.data.author.name') && 
                       <span className="published">
-                        ✍ by {_.get(this.props, 'pageContext.site.data.author.name')}, 📅
+                        ✍ by {_.get(this.props, 'pageContext.site.data.author.name')}, 
                       </span>
                       }
                       <time className="published"
