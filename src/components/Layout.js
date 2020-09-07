@@ -17,6 +17,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <meta name="description" content="Making no-code apps and writing daily devotions"></meta>
                     <meta name="keywords" content="Write,Faith,Hope,Love,No-Code,Apps"></meta>
+                    <meta name="robots" content="index, follow"></meta>
                     <meta name="twitter:card" content="summary_large_image" />
                     <meta name="twitter:description" content={'✍ by ' + _.get(this.props, 'pageContext.site.data.author.name')} />
                     <meta name="twitter:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
