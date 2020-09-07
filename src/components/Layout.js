@@ -17,6 +17,10 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <meta name="twitter:card" content="summary_large_image" />
                     <meta name="twitter:description" content={_.get(this.props, 'pageContext.site.siteMetadata.title')} />
+                    <meta name="twitter:title" content={_.get(this.props, 'pageContext.site.siteMetadata.title')} />
+                    <meta name="twitter:site" content="@goseekfirst" />
+                    <meta name="twitter:image" content={_.get(this.props, 'pageContext.site.siteMetadata.logo_img')} />
+                    <meta name="twitter:creator" content="@goseekfirst" />
                     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>
