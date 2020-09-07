@@ -8,7 +8,7 @@ sections:
   component: HeroBlock
   content: One day at a time.
   actions:
-  - label: "Get updates weekly \U0001F48C"
+  - label: "Get weekly updates \U0001F48C"
     url: https://seekfirst.substack.com/
 - type: postsblock
   template: postsblock
