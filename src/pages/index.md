@@ -18,8 +18,8 @@ sections:
   subtitle: Latest Blog Posts
   num_posts_displayed: 7
   actions:
-  - label: "Receive weekly updates \U0001F48C"
-    url: https://seekfirst.substack.com/
+  - label: "Read more \U0001F4DA"
+    url: blog/index.html
 menus:
   main:
     title: Home
