@@ -5,7 +5,7 @@ tag:
 author: name
 title: Love In The Midst Of Persecution ⛅
 subtitle: ''
-date: 2020-09-08T16:00:00Z
+date: 2020-09-07T17:00:00Z
 thumb_img_path: "/images/20190217_161015.jpg"
 content_img_path: "/images/20190217_161015.jpg"
 excerpt: Jesus knew that following Him is not a walk in the park.
