@@ -5,7 +5,7 @@ tag:
 author: name
 title: "Love Is Like Salt & Light \U0001F9C2"
 subtitle: ''
-date: 2020-09-09T16:00:00Z
+date: 2020-09-07T18:00:00Z
 thumb_img_path: "/images/20190217_115454.jpg"
 content_img_path: "/images/20190217_115454.jpg"
 excerpt: Jesus loves teaching through analogy.
