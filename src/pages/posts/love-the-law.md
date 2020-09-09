@@ -12,6 +12,8 @@ excerpt: It took me a while to write again because I suddenly find it hard to de
   with the Law of Moses since I've started to dig deeper on how Jesus love.
 
 ---
+📸 by Joey Taleño, COP Israel Young Pros Tour 2019
+
 > 17 “Don’t misunderstand why I have come. I did not come to abolish the law of Moses or the writings of the prophets. No, I came to accomplish their purpose. Matthew 5:17 NLT
 
 ### Where Is The Love?
