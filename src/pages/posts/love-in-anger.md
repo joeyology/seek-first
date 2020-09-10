@@ -3,7 +3,7 @@ template: post
 tag:
 - Life
 author: name
-title: "Love In Anger \U0001F618 1/3"
+title: "Love & Anger \U0001F618 1/3"
 subtitle: ''
 date: 2020-09-09T16:00:00Z
 thumb_img_path: "/images/20190214_124215.jpg"
