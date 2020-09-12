@@ -13,7 +13,9 @@ excerpt: It seem unloving to take my eye and throw it away just because I look l
   it caused me to sin.
 
 ---
-> 29 So if your eye—even your good eye—causes you to lust, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. 30 And if your hand—even your stronger hand—causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. 
+📸 Caesarea, COP Israel Young Pros Tour 2019
+
+> 29 So if your eye—even your good eye—causes you to lust, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. 30 And if your hand—even your stronger hand—causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
 >
 > Matthew 5:29-30 NLT
 
