@@ -12,6 +12,8 @@ excerpt: Sorry but truth is, there is no love in sin.  In this example, Jesus ra
   the bar higher when it comes to committing adultery.
 
 ---
+📸 Leonardo Hotel Jerusalem, COP Israel Young Pros Tour 2019
+
 > 27 “You have heard the commandment that says, ‘You must not commit adultery.’ 28 But I say, anyone who even looks at a woman with lust has already committed adultery with her in his heart. Matthew 5:27-28 NLT
 
 ## Where is the love?
