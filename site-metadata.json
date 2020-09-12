@@ -14,6 +14,16 @@
         "text": " Made with Stackbit",
         "url": "https://www.stackbit.com",
         "new_window": true
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://www.seekfirst.ltd/privacy-policy/",
+        "new_window": true
+      },
+      {
+        "text": "Terms",
+        "url": "https://www.seekfirst.ltd/terms-of-service/",
+        "new_window": true
       }
     ],
     "has_social": true
