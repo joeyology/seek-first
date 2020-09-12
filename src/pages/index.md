@@ -35,7 +35,7 @@ sections:
   component: ServicesBlock
   type: servicesblock
   title: Services
-  section_id: services
+  section_id: services-section
   serviceslist:
   - title: Data Integration
     content: Test
