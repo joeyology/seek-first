@@ -23,7 +23,7 @@ export default class Post extends React.Component {
                         dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%b %d, %Y')}</time>
                       <span> </span>
                       <a class="twitter-share-button"
-                          href={'https://twitter.com/intent/tweet?text=' + _.get(this.props, 'pageContext.frontmatter.title')}
+                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NewBlog%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
                           data-size="large">
                         Tweet
                       </a>
