@@ -5,12 +5,14 @@ tag:
 author: name
 title: "Love & Anger \U0001F618 3/3"
 subtitle: ''
-date: 2020-09-11T16:00:00Z
+date: 2020-09-11T16:00:00.000+00:00
 thumb_img_path: "/images/20190214_113634.jpg"
 content_img_path: "/images/20190214_113634.jpg"
 excerpt: Anger is dangerous.  It could overpower mercy and love for a moment.
 
 ---
+📸 Caesarea, COP Israel Young Pros Tour 2019
+
 > 25 “When you are on the way to court with your adversary, settle your differences quickly. Otherwise, your accuser may hand you over to the judge, who will hand you over to an officer, and you will be thrown into prison. 26 And if that happens, you surely won’t be free again until you have paid the last penny. Matthew 5:25-26 NLT
 
 ## Where is the love?
