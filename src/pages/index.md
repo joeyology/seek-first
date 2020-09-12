@@ -11,33 +11,6 @@ sections:
   actions:
   - label: "Get weekly updates \U0001F48C"
     url: https://seekfirst.substack.com/
-- template: portfolioblock
-  component: PortfolioBlock
-  layout_style: tiles
-  type: portfolioblock
-  title: Latest Projects
-  subtitle: Hard Work
-  num_projects_displayed: 4
-  section_id: latest-projects
-  view_all_text: "View All \U0001F4BB"
-  view_all_url: https://www.seekfirst.ltd/portfolio/
-- template: servicesblock
-  component: ServicesBlock
-  type: servicesblock
-  title: Data Services
-  section_id: services-section
-  serviceslist:
-  - title: Data Integration
-    content: |-
-      ![](/images/luke-chesser-jkutrj4vk00-unsplash.jpg)
-
-      Photo by [Luke Chesser](https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  - title: Data Visualization
-    content: |-
-      ![](/images/carlos-muza-hpjsku2uysu-unsplash.jpg)
-
-      Photo by [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/raw-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  subtitle: Business Insights & Analytics
 - type: postsblock
   template: postsblock
   title: Daily Devotions
@@ -48,6 +21,30 @@ sections:
   actions:
   - label: "Read more \U0001F4DA"
     url: blog/index.html
+- template: servicesblock
+  component: ServicesBlock
+  type: servicesblock
+  title: Professional Services
+  section_id: services-section
+  serviceslist:
+  - title: Data Integration
+    content: ''
+  - title: Data Visualization
+    content: |-
+      ![](/images/carlos-muza-hpjsku2uysu-unsplash.jpg)
+
+      Photo by [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/raw-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  subtitle: Business Insights & Analytics
+- template: portfolioblock
+  component: PortfolioBlock
+  layout_style: tiles
+  type: portfolioblock
+  title: Latest Projects
+  subtitle: Hard Work
+  num_projects_displayed: 4
+  section_id: latest-projects
+  view_all_text: "View All \U0001F4BB"
+  view_all_url: https://www.seekfirst.ltd/portfolio/
 menus:
   main:
     title: Home
