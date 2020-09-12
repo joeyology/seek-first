@@ -6,7 +6,6 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
-        <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
