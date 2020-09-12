@@ -25,7 +25,6 @@ export default class Post extends React.Component {
                       <a class="twitter-share-button"
                           href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NewBlog%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
                           data-size="large">
-                        Tweet
                       </a>
                     </div>
                     {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
