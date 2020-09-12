@@ -11,6 +11,11 @@
     "content": "&copy; 2020 SeekFirst, Ltd.",
     "links": [
       {
+        "text": "Terms",
+        "url": "https://www.seekfirst.ltd/terms-of-service/",
+        "new_window": true
+      },
+      {
         "text": "Privacy Policy",
         "url": "https://www.seekfirst.ltd/privacy-policy/",
         "new_window": true
