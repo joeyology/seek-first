@@ -27,7 +27,7 @@ sections:
   title: Hard Work
   subtitle: Latest Projects
   num_projects_displayed: 2
-  section_id: ''
+  section_id: latest-projects
   view_all_text: ''
   view_all_url: ''
 menus:
