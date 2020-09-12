@@ -30,10 +30,7 @@ sections:
   - title: Data Integration
     content: ''
   - title: Data Visualization
-    content: |-
-      ![](/images/carlos-muza-hpjsku2uysu-unsplash.jpg)
-
-      Photo by [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/raw-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    content: ''
   subtitle: Business Insights & Analytics
 - template: portfolioblock
   component: PortfolioBlock
