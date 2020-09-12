@@ -19,7 +19,7 @@ export default class Body extends React.Component {
                     <meta name="keywords" content="For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life, John 3:16"></meta>
                     <meta name="robots" content="index, follow"></meta>
                     <meta name="twitter:card" content="summary_large_image" />
-                    <meta name="twitter:description" content={_.get(this.props, 'frontmatter.excerpt')} />
+                    <meta name="twitter:description" content={_.get(this.props, 'pageContext.frontmatter.excerpt')} />
                     <meta name="twitter:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
                     <meta name="twitter:site" content="https://www.seekfirst.ltd" />
                     <meta name="twitter:image" content={'https://www.seekfirst.ltd' + _.get(this.props, 'pageContext.frontmatter.content_img_path')} />
