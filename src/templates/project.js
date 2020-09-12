@@ -26,6 +26,12 @@ export default class Project extends React.Component {
                   }
                   <div className="post-content inner-small">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
+                    <p>
+                      <a class="twitter-share-button"
+                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NoCode%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
+                          data-size="large">
+                      </a>
+                    </p>
                   </div>
                 </article>
               </div>
