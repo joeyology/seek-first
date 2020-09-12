@@ -39,7 +39,7 @@ sections:
   serviceslist:
   - title: Data Integration
     content: Test
-  subtitle: ''
+  subtitle: Subtitle
 menus:
   main:
     title: Home
