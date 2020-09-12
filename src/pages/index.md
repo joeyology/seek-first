@@ -26,7 +26,7 @@ sections:
   section_id: latest-posts
   component: PostsBlock
   subtitle: Latest Blog Posts
-  num_posts_displayed: 7
+  num_posts_displayed: 6
   actions:
   - label: "Read more \U0001F4DA"
     url: blog/index.html
