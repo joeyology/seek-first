@@ -23,14 +23,14 @@ sections:
     url: blog/index.html
 - template: portfolioblock
   component: PortfolioBlock
-  layout_style: tiles
+  layout_style: mosaic
   type: portfolioblock
   title: Hard Work
   subtitle: Latest Projects
   num_projects_displayed: 4
   section_id: latest-projects
   view_all_text: ''
-  view_all_url: ''
+  view_all_url: https://www.seekfirst.ltd/portfolio/
 menus:
   main:
     title: Home
