@@ -11,6 +11,11 @@
     "content": "&copy; 2020 SeekFirst, Ltd.",
     "links": [
       {
+        "text": "Privacy Policy",
+        "url": "https://www.seekfirst.ltd/privacy-policy/",
+        "new_window": true
+      },
+      {
         "text": " Made with Stackbit",
         "url": "https://www.stackbit.com",
         "new_window": true
