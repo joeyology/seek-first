@@ -23,7 +23,7 @@ sections:
     url: blog/index.html
 - template: portfolioblock
   component: PortfolioBlock
-  layout_style: mosaic
+  layout_style: tiles
   type: portfolioblock
   title: Hard Work
   subtitle: Latest Projects
