@@ -40,10 +40,10 @@ sections:
   subtitle: Business Insights & Analytics
 - type: postsblock
   template: postsblock
-  title: Latest Blog Posts
+  title: Daily Devotions
   section_id: latest-posts
   component: PostsBlock
-  subtitle: Heart Work
+  subtitle: Latest Blog Posts
   num_posts_displayed: 4
   actions:
   - label: "Read more \U0001F4DA"
