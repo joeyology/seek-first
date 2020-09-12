@@ -20,6 +20,16 @@ sections:
   actions:
   - label: "Read more \U0001F4DA"
     url: blog/index.html
+- template: portfolioblock
+  component: PortfolioBlock
+  layout_style: tiles
+  type: portfolioblock
+  title: Hard Work
+  subtitle: Latest Projects
+  num_projects_displayed: 2
+  section_id: ''
+  view_all_text: ''
+  view_all_url: ''
 menus:
   main:
     title: Home
