@@ -31,6 +31,15 @@ sections:
   section_id: latest-projects
   view_all_text: "View All \U0001F4BB"
   view_all_url: https://www.seekfirst.ltd/portfolio/
+- template: servicesblock
+  component: ServicesBlock
+  type: servicesblock
+  title: Services
+  section_id: services
+  serviceslist:
+  - title: Data Integration
+    content: Test
+  subtitle: ''
 menus:
   main:
     title: Home
