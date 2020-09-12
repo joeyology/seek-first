@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "✍ writing daily devotions \U0001F4CA works with data \U0001F4BB makes no-code
-    apps"
+  title: SeekFirst
   section_id: hero
   component: HeroBlock
-  content: one day at a time.
+  content: "✍ writing daily devotions \U0001F4CA works with data \U0001F4BB makes
+    no-code apps"
   actions:
   - label: "Get weekly updates \U0001F48C"
     url: https://seekfirst.substack.com/
