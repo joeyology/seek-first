@@ -36,5 +36,6 @@ pages:
 - src/pages/projects/bible-app.md
 - src/pages/projects/buyers-list.md
 - "src/pages/projects/daily-devotion-\U0001F4D6-1.md"
+- src/pages/projects/place.md
 - src/pages/projects/plans.md
 - src/pages/projects/tilde.md
