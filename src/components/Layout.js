@@ -16,7 +16,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content="Making no-code apps and writing daily devotions"></meta>
-                    <meta name="keywords" content="Write,Faith,Hope,Love,No-Code,Apps"></meta>
+                    <meta name="keywords" content="For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life, John 3:16"></meta>
                     <meta name="robots" content="index, follow"></meta>
                     <meta name="twitter:card" content="summary_large_image" />
                     <meta name="twitter:description" content={_.get(this.props, 'frontmatter.excerpt')} />
