@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: SeekFirst
+  title: SeekFirst is
   section_id: hero
   component: HeroBlock
   content: "✍ writing daily devotions \U0001F4CA works with data \U0001F4BB makes
