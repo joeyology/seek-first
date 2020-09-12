@@ -37,6 +37,8 @@ sections:
   title: Services
   section_id: services-section
   serviceslist:
+  - title: Data Visualization
+    content: Data Visualization
   - title: Data Integration
     content: Test
   subtitle: Subtitle
