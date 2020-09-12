@@ -21,11 +21,6 @@ export default class Post extends React.Component {
                       <span>, </span>
                       <time className="published"
                         dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%b %d, %Y')}</time>
-                      <span> </span>
-                      <a class="twitter-share-button"
-                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NewBlog%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
-                          data-size="large">
-                      </a>
                     </div>
                     {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                     <div className="post-subtitle">
@@ -40,6 +35,12 @@ export default class Post extends React.Component {
                   }
                   <div className="post-content inner-small">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
+                    <p>
+                      <a class="twitter-share-button"
+                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NewBlog%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
+                          data-size="large">
+                      </a>
+                    </p>
                   </div>
                 </article>
               </div>
