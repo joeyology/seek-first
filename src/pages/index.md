@@ -15,8 +15,8 @@ sections:
   component: PortfolioBlock
   layout_style: tiles
   type: portfolioblock
-  title: Hard Work
-  subtitle: Latest Projects
+  title: Latest Projects
+  subtitle: Hard Work
   num_projects_displayed: 4
   section_id: latest-projects
   view_all_text: "View All \U0001F4BB"
