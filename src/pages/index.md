@@ -29,7 +29,7 @@ sections:
   subtitle: Latest Projects
   num_projects_displayed: 4
   section_id: latest-projects
-  view_all_text: "View all \U0001F4BB"
+  view_all_text: "View All \U0001F4BB"
   view_all_url: https://www.seekfirst.ltd/portfolio/
 menus:
   main:
