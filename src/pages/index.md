@@ -3,10 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: "Let's change the world, one day at a time. \U0001F30E"
+  title: "✍ writing daily devotions \U0001F4CA works with data \U0001F4BB makes no-code
+    apps"
   section_id: hero
   component: HeroBlock
-  content: ''
+  content: one day at a time.
   actions:
   - label: "Get weekly updates \U0001F48C"
     url: https://seekfirst.substack.com/
