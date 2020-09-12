@@ -34,14 +34,14 @@ sections:
 - template: servicesblock
   component: ServicesBlock
   type: servicesblock
-  title: Services
+  title: Data Services
   section_id: services-section
   serviceslist:
-  - title: Data Visualization
-    content: Data Visualization
   - title: Data Integration
     content: Test
-  subtitle: Subtitle
+  - title: Data Visualization
+    content: Data Visualization
+  subtitle: Business Insights & Analytics
 menus:
   main:
     title: Home
