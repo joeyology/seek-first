@@ -8,13 +8,8 @@
     "logo_img": "/images/seekfirst-logo.png"
   },
   "footer": {
-    "content": "&copy; 2020 SeekFirst, Ltd.",
+    "content": "SeekFirst &copy; 2020",
     "links": [
-      {
-        "text": " Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      },
       {
         "text": "Privacy Policy",
         "url": "https://www.seekfirst.ltd/privacy-policy/",
@@ -23,6 +18,11 @@
       {
         "text": "Terms",
         "url": "https://www.seekfirst.ltd/terms-of-service/",
+        "new_window": true
+      },
+      {
+        "text": " Made with Stackbit",
+        "url": "https://www.stackbit.com",
         "new_window": true
       }
     ],
