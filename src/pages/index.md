@@ -43,7 +43,10 @@ sections:
 
       Photo by [Luke Chesser](https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - title: Data Visualization
-    content: Data Visualization
+    content: |-
+      ![](/images/carlos-muza-hpjsku2uysu-unsplash.jpg)
+
+      Photo by [Carlos Muza](https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/raw-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   subtitle: Business Insights & Analytics
 menus:
   main:
