@@ -31,7 +31,7 @@ sections:
     content: '![Data Integration](/images/data-integration.png "Data Integration")'
   - title: Data Visualization
     content: '![Data Visualization](/images/data-visualization-1.png "Data Visualization")'
-  subtitle: Business Insights & Analytics
+  subtitle: Data Architecture
 - template: portfolioblock
   component: PortfolioBlock
   layout_style: tiles
