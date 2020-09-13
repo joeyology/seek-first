@@ -36,7 +36,7 @@ sections:
     content: |-
       ![Data Visualization](/images/data-visualization-1.png "Data Visualization")
 
-      Design, develop & deploy automated data visualization that unlocks hidden insights for your business.
+      Design, develop & deploy automated data visualization that unlocks hidden insights of your business.
   subtitle: Professional Services
   actions:
   - label: "Contact Us \U0001F4E7"
