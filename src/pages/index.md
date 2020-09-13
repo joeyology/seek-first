@@ -24,7 +24,7 @@ sections:
 - template: servicesblock
   component: ServicesBlock
   type: servicesblock
-  title: "#DataArchitecture"
+  title: Data Architecture
   section_id: services-section
   serviceslist:
   - title: Data Integration
