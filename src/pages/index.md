@@ -24,7 +24,7 @@ sections:
 - template: servicesblock
   component: ServicesBlock
   type: servicesblock
-  title: Professional Services
+  title: Data Architecture
   section_id: services-section
   serviceslist:
   - title: Data Integration
@@ -37,7 +37,7 @@ sections:
       ![Data Visualization](/images/data-visualization-1.png "Data Visualization")
 
       Design, develop & deploy automated data visualization that unlocks hidden insights for your business.
-  subtitle: Data Architecture
+  subtitle: Professional Services
   actions:
   - label: "Contact Us \U0001F4E7"
     url: https://www.seekfirst.ltd/contact/
