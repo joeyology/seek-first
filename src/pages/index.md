@@ -30,7 +30,7 @@ sections:
   - title: Data Integration
     content: "![](/images/data-integration.png)"
   - title: Data Visualization
-    content: ''
+    content: '![Data Visualization](/images/data-visualization.png "Data Visualization")'
   subtitle: Business Insights & Analytics
 - template: portfolioblock
   component: PortfolioBlock
