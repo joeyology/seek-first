@@ -38,6 +38,9 @@ sections:
 
       Design, develop & deploy automated data visualization that unlocks hidden insights for your business.
   subtitle: Data Architecture
+  actions:
+  - label: "Contact Us \U0001F4E7"
+    url: https://www.seekfirst.ltd/contact/
 - template: portfolioblock
   component: PortfolioBlock
   layout_style: tiles
