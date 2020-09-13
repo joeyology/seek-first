@@ -30,16 +30,16 @@ export default class ServicesBlock extends React.Component {
                       </div>
                       ))}
                     </div>
+                    {_.get(this.props, 'section.actions') && 
+                    <p className="block-cta">
+                      {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
+                      <Link key={action_idx} to={safePrefix(_.get(action, 'url'))} className="button">{_.get(action, 'label')}</Link>
+                      ))}
+                    </p>
+                    }
                   </div>
                   }
                 </div>
-                {_.get(this.props, 'section.actions') && 
-                <p className="block-cta">
-                  {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
-                  <Link key={action_idx} to={safePrefix(_.get(action, 'url'))} className="button">{_.get(action, 'label')}</Link>
-                  ))}
-                </p>
-                }
               </div>
             </section>
         );
