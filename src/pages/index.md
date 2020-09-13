@@ -33,7 +33,10 @@ sections:
 
       Design, develop & deploy automated data integration strategy for your business.
   - title: Data Visualization
-    content: '![Data Visualization](/images/data-visualization-1.png "Data Visualization")'
+    content: |-
+      ![Data Visualization](/images/data-visualization-1.png "Data Visualization")
+
+      Design, develop & deploy automated data visualization that unlocks hidden insights for your business.
   subtitle: Data Architecture
 - template: portfolioblock
   component: PortfolioBlock
