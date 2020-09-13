@@ -45,8 +45,8 @@ sections:
   component: PortfolioBlock
   layout_style: tiles
   type: portfolioblock
-  title: "#NoCode Apps"
-  subtitle: Latest Projects
+  title: "#NoCode"
+  subtitle: Latest Side Projects
   num_projects_displayed: 4
   section_id: latest-projects
   view_all_text: "View All \U0001F4BB"
