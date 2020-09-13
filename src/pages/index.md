@@ -31,7 +31,7 @@ sections:
     content: |-
       ![Data Integration](/images/data-integration.png "Data Integration")
 
-      Design, develop & deploy automated data integration strategy for your business.
+      Design, develop & deploy automated data integration for effective data warehouse for your business.
   - title: Data Visualization
     content: |-
       ![Data Visualization](/images/data-visualization-1.png "Data Visualization")
