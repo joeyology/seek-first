@@ -37,7 +37,7 @@ export default class Post extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
                     <p>
                       <a class="twitter-share-button"
-                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=NewBlog%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
+                          href={'https://twitter.com/intent/tweet?via=goseekfirst&hashtags=DailyDevotion%2CSeekFirst&text=' + _.get(this.props, 'pageContext.frontmatter.title')}
                           data-size="large">
                       </a>
                     </p>
