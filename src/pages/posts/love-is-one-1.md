@@ -12,6 +12,8 @@ excerpt: I'm having a hard time expressing my thoughts here.  Why? Is it because
   is about divorce?
 
 ---
+📸 Jerusalem, COP Israel Young Pros Tour 2019
+
 > 31 “You have heard the law that says, ‘A man can divorce his wife by merely giving her a written notice of divorce.’ 32 But I say that a man who divorces his wife, unless she has been unfaithful, causes her to commit adultery. And anyone who marries a divorced woman also commits adultery.
 >
 > Matthew 5:31-32 NLT
@@ -40,7 +42,7 @@ Jesus says, if it's due to unfaithfulness so be it but otherwise don't.
 
 And don't marry someone who got divorced.
 
-It's like trying to deconstruct a house. 
+It's like trying to deconstruct a house.
 
 It can be done but all the pieces can be damaged or even be broken, almost good for nothing.
 
