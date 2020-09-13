@@ -13,7 +13,7 @@ sections:
     url: https://seekfirst.substack.com/
 - type: postsblock
   template: postsblock
-  title: Daily Devotions
+  title: "#DailyDevotions"
   section_id: latest-posts
   component: PostsBlock
   subtitle: Latest Blog Posts
