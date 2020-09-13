@@ -6,7 +6,7 @@ sections:
   title: SeekFirst is
   section_id: hero
   component: HeroBlock
-  content: "✍ writing daily devotions \U0001F4CA works with data \U0001F4BB makes
+  content: "✍ writing daily devotions \U0001F4CA making data work \U0001F4BB creating
     no-code apps"
   actions:
   - label: "Get weekly updates \U0001F48C"
