@@ -28,7 +28,7 @@ sections:
   section_id: services-section
   serviceslist:
   - title: Data Integration
-    content: "![](/images/data-integration.png)"
+    content: '![Data Integration](/images/data-integration.png "Data Integration")'
   - title: Data Visualization
     content: '![Data Visualization](/images/data-visualization.png "Data Visualization")'
   subtitle: Business Insights & Analytics
